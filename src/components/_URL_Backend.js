@@ -1,0 +1,1 @@
+module.exports = "https://fast-ridge-29233.herokuapp.com/"
